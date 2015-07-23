@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        gerifilmai.net - Kodo generatorius.
+// @name        gerifilmai.net
 // @namespace   filmu sriptas
 // @include     http://gerifilmai.net/*
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
 // @require     https://gist.github.com/raw/2625891/waitForKeyElements.js
-// @version     v1.16.7
+// @version     v1.2.1
 // Autorius: Paulius Žebelys
 // @grant       GM_addStyle 
 // ==/UserScript==
